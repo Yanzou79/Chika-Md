@@ -423,10 +423,7 @@ return`  _Selamat ${salam} kak ${pushname}_
   *≻* FatihArridho
   *≻* Yoga
   *≻* Riy
-  *≻* Deff
-  *≻* Sanzy
-  *≻* Nekel
-  *≻* Bagas Prdn
+  *≻* Iyan
   `
 }
 
